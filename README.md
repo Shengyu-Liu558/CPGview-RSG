@@ -75,7 +75,7 @@ BiocManager::install("genbankr")
 
 ​	2.3  execute program
 
-​	"plasdrawmap.pl" is a perl implementation file(in the  "Linux"  folder), containing the phase of three image generated.  "plasdrawmap.pl" is a simple script provided using streaming API. It takes four arguments: the plasdrawmap.pl file, the input GeneBank file(Relative or absolute path), file name/ID and the name of output folder(Relative or absolute path). Since three jobs need to be running, this process maybe take 20 -40 seconds. Below is an example:
+​   "plasdrawmap.pl" is a perl implementation file(in the  "Linux"  folder), containing the phase of three image generated.  "plasdrawmap.pl" is a simple script provided using streaming API. It takes four arguments: the plasdrawmap.pl file, the input GeneBank file(Relative or absolute path), file name/ID and the name of output folder(Relative or absolute path). Since three jobs need to be running, this process maybe take 20 -40 seconds. Below is an example:
 
 ```shell
 format: perl plasdrawmap.pl example.gb example_name result_folder
