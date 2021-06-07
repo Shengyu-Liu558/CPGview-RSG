@@ -96,5 +96,9 @@ example: perl plasdrawmap.pl sequence.gb Arabidopsis Arabidopsis_folder
 
 ​			The output folder contains some images and some data folder. Users only need to pay attention to the files ending with "cc02.pdf", "cis.pdf" and "trans.pdf". Other files are generated in the middle for reference only.
 
+### 3. Contact
+
+​			Shengyu Liu - shengyuliu558@163.com 
+            cliu6688@yahoo.com - Chang liu
 
 
