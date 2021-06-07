@@ -99,6 +99,6 @@ example: perl plasdrawmap.pl sequence.gb Arabidopsis Arabidopsis_folder
 ### 3. Contact
 
 ​			Shengyu Liu - shengyuliu558@163.com 
-            cliu6688@yahoo.com - Chang liu
+​			Chang Liu - cliu6688@yahoo.com
 
 
