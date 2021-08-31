@@ -258,7 +258,7 @@ sub generateHTML {
     <style type="text/css"> img {border: none;} </style>
     </head>
     <body>
-    <p>Your uploaded <a href=$id.gbf>file</a></p>
+    <p>Your uploaded <a href=$id.gbf target=_blank>file</a></p>
     <p>Your <a href=$outfile1 target=_blank>cpg circular graph</a></p>
     <p>Your <a href=$outfile2 target=_blank>cis-splicing genes</a></p>
     <p>Your <a href=$outfile3 target=_blank>trans-splicing genes</a></p>
