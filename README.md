@@ -1,4 +1,4 @@
-#                                         CPGview-RSG
+#                                         CPGview-RSG (Website: http://www.herbalgenomics.org/cpgview/)
 
 The goal of the entire project is to achieve genetic visualization, The entire program needs to be executed in the Linux environment. Below are the instructions for use of  CPGview-RSG:
 
